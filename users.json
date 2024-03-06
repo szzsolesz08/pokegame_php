@@ -1,0 +1,57 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "szzsolesz008@gmail.com",
+        "password": "$2y$10$gBIxyMmTbtlqcPN6gcdN0eSOVHTku2o4vPjs22iQdSgD6mXVMJlAu",
+        "roles": [
+            "user",
+            "admin"
+        ],
+        "cards": [
+            {
+                "name": "Weedle",
+                "type": "bug",
+                "hp": 40,
+                "attack": 35,
+                "defense": 30,
+                "price": 195,
+                "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png"
+            },
+            {
+                "name": "Bulbasaur",
+                "type": "grass",
+                "hp": 45,
+                "attack": 49,
+                "defense": 49,
+                "price": 318,
+                "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+                "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png"
+            }
+        ],
+        "money": 99839,
+        "id": "admin"
+    },
+    "65a42e598880e": {
+        "username": "test0",
+        "email": "test0@gmail.com",
+        "password": "$2y$10$SQvqPLfEe5ZvGuvbue9hi.OvckSNGxfz\/UBbihvTIDIMjHaJPIkwW",
+        "roles": [
+            "user"
+        ],
+        "cards": [],
+        "money": 500,
+        "id": "65a42e598880e"
+    },
+    "65a53113ec9ab": {
+        "username": "testadmin",
+        "email": "testadmin@gmail.com",
+        "password": "$2y$10$gBIxyMmTbtlqcPN6gcdN0eSOVHTku2o4vPjs22iQdSgD6mXVMJlAu",
+        "roles": [
+            "user"
+        ],
+        "cards": [],
+        "money": 500,
+        "id": "65a53113ec9ab"
+    }
+}
